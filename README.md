@@ -9,3 +9,5 @@ Team Project의 목표인 인공지능이 생성한 텍스트와 학생이 쓴 �
 
 모델은 Huggling face에 있는 Bert, Distil Bert, Roberta, XLnet, Albert을 활용하였다.
 기법은 Ensemble, LoRA, Transformer Interpret을 사용하였다.
+
+팀프로젝트는 6팀 중 1등을 하였다.
